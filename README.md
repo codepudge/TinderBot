@@ -1,4 +1,4 @@
-# Tinderbotz
+# TinderBot
 **Consider giving a ⭐ if you like the project!**
 ## Project
 <!-- PROJECT LOGO -->
