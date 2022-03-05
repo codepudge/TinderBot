@@ -1,0 +1,4 @@
+selenium
+undetected-chromedriver
+webdriver-manager
+Pillow
