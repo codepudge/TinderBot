@@ -1,4 +1,4 @@
-# Tinderbotz Documentation
+# Tinderbot Documentation
 Tinderbot exists around interacting with two types of users.</br>
 1. ***Matches***</br>
 Matches are profiles you have liked and whom have liked you back.</br>
