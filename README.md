@@ -29,7 +29,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-  * [Breaking Record](#breaking-record)
+  
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -72,10 +72,6 @@ If you're new to coding and just want the script to automatically like, the [aut
 * [Selenium](https://selenium.dev)
 * [Undetected-Chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 
-### Breaking Record
-**I broke the world record most matches using this script!**</br>
-Reached 1000 matches in the first 24hours.</br>
-Currently at 30000 matches!</br>
 
 <p align="left">
   <a href="https://user-images.githubusercontent.com/60892381/104088880-2d014100-526a-11eb-8b6d-ad1da6567778.jpg">
